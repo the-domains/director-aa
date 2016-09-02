@@ -1,10 +1,14 @@
+layout_spectrum: 0.4174415811430663
 typography_spectrum: 0.43791386554948986
 color:
   brandStrength: 0.6679819778073579
   lightness: 0.5970368373673409
   saturation: 0.6461994133424014
   rhythmicContrast: 0.05032372544519603
-layout_spectrum: 0.4174415811430663
+  brandColors:
+    - '#17BEBB'
+    - '#2E282A'
+    - '#CD5334'
+    - '#EDB88B'
+    - '#FAD8D6'
 name: DIRECTOR - AA
-title: Berto's Stories
-description: Hah Zah!
